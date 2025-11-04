@@ -28,8 +28,21 @@ This approach helps reinforce algorithmic thinking, improve language fluency, an
 ```
 📂 coding-practice
 ┣ 📂 python
+┃   ┣ 📂 s01
+┃   ┣ 📂 s02
+┃   ┣ 📂 s03
+┃   ┗ ...
 ┣ 📂 java
+┃   ┣ 📂 s01
+┃   ┗ ...
 ┣ 📂 javascript
+┃   ┣ 📂 s01
+┃   ┗ ...
+┣ 📂 slides
+┃   ┣ 📊 Session-01.pptx
+┃   ┣ 📊 Session-02.pptx
+┃   ┣ 📊 Session-03.pptx
+┃   ┗ ...
 ┗ README.md
 ```
 ---
